@@ -1,0 +1,11 @@
+cd projectname	(opens the file where we work)
+git init	(initialize empty git repositary)
+ls -a		(shows hidden files)
+touch filename.filetype		(create a sub file in folder)
+ls	(shows the present file)
+Removing a file from the created subfiles:
+rm -rf filename		(removes the file)
+git status	(to find the current status of file)
+Adding or merging of files:
+git add filename.filetype filename.filetype
+git add .	(for adding a large number of files , all files can be merged)

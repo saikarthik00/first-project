@@ -1,0 +1,6 @@
+hi
+
+cd	(opens where we have to work)
+pwd	(shows the folder where project stores)
+Creating New Project
+mkdir projectname
