@@ -9,3 +9,6 @@ git status	(to find the current status of file)
 Adding or merging of files:
 git add filename.filetype filename.filetype
 git add .	(for adding a large number of files , all files can be merged)
+git rm --cached filename.filetype	(staging to unstaging)
+git commit -m "Initial commit"
+git config --global user.name "name"
